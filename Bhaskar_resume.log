@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  15 APR 2019 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  15 APR 2019 22:50
 entering extended mode
 **./Bhaskar_resume.tex
 (Bhaskar_resume.tex
@@ -84,18 +84,18 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ) (Bhaskar_resume.aux)
 \openout1 = `Bhaskar_resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -200,53 +200,33 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Overfull \hbox (11.6656pt too wide) in paragraph at lines 6--13
+Overfull \hbox (11.6656pt too wide) in paragraph at lines 7--9
 [] 
  []
 
 
-Overfull \hbox (9.93727pt too wide) in paragraph at lines 6--13
-[]\OT1/cmtt/m/n/10 Shahdara,Delhi,  []\OT1/cmr/bx/n/10 Email Id:[] []\OT1/cmtt/
-m/n/10 bhaskar.dragonballz@gmail.com 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--13
-
- []
-
-<bhaskar.jpg, id=1, 94.6737pt x 116.71605pt>
-File: bhaskar.jpg Graphic file (type jpg)
-<use bhaskar.jpg>
-Package pdftex.def Info: bhaskar.jpg  used on input line 15.
-(pdftex.def)             Requested size: 47.33673pt x 58.35786pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
 [1
 
-{C:/Users/bhask/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bhaskar.j
-pg>] (Bhaskar_resume.aux) ) 
+{C:/Users/bhask/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Bhaskar_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1929 strings out of 492945
- 29018 string characters out of 3126252
- 96352 words of memory out of 3000000
- 5829 multiletter control sequences out of 15000+200000
- 5020 words of font info for 19 fonts, out of 3000000 for 9000
+ 1914 strings out of 492945
+ 28850 string characters out of 3126252
+ 95352 words of memory out of 3000000
+ 5821 multiletter control sequences out of 15000+200000
+ 3939 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,25p,413b,130s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bhask/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bhask/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bhas
-k/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
-:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmtt10.pfb>
-Output written on Bhaskar_resume.pdf (1 page, 70431 bytes).
+ 41i,4n,25p,284b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Bhaskar_resume.pdf (1 page, 17543 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
