@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 17:15
 entering extended mode
 **./Bhaskar_resume.tex
 (Bhaskar_resume.tex
@@ -200,7 +200,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Overfull \hbox (11.6656pt too wide) in paragraph at lines 6--14
+Overfull \hbox (5.97514pt too wide) in paragraph at lines 6--14
 [] 
  []
 
@@ -224,11 +224,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 22.
 
-Overfull \hbox (45.63574pt too wide) in paragraph at lines 22--32
- [] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
@@ -245,6 +240,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
@@ -252,16 +257,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
 {C:/Users/bhask/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bhaskar.j
 pg>]
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
@@ -303,25 +298,30 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
 
-[2] [3] [4] (Bhaskar_resume.aux) ) 
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 136--140
+
+ []
+
+[4] (Bhaskar_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1953 strings out of 492945
- 29447 string characters out of 3126252
- 100352 words of memory out of 3000000
- 5849 multiletter control sequences out of 15000+200000
- 5984 words of font info for 22 fonts, out of 3000000 for 9000
+ 1952 strings out of 492945
+ 29433 string characters out of 3126252
+ 101352 words of memory out of 3000000
+ 5848 multiletter control sequences out of 15000+200000
+ 5686 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,25p,555b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/bhask/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bhask/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bhask/App
-Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/
-Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Bhaskar_resume.pdf (4 pages, 126207 bytes).
+ 41i,6n,25p,555b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bhask/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bhask/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bh
+ask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Bhaskar_resume.pdf (4 pages, 126994 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
