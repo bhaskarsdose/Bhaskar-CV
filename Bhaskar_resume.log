@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 17:36
 entering extended mode
 **./Bhaskar_resume.tex
 (Bhaskar_resume.tex
@@ -303,28 +303,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--140
 
  []
 
-[4] [5] (Bhaskar_resume.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+
+ []
+
+[5] (Bhaskar_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1953 strings out of 492945
- 29447 string characters out of 3126252
+ 1957 strings out of 492945
+ 29503 string characters out of 3126252
  101352 words of memory out of 3000000
- 5849 multiletter control sequences out of 15000+200000
- 5984 words of font info for 22 fonts, out of 3000000 for 9000
+ 5852 multiletter control sequences out of 15000+200000
+ 6621 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,25p,555b,184s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bhask/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bhask/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/User
-s/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bhask/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Bhaskar_resume.pdf (5 pages, 140391 bytes).
+<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bhask/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bhask/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bh
+ask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bhask/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/bhask/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Bhaskar_resume.pdf (5 pages, 146009 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
