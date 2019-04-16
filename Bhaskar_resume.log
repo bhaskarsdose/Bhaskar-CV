@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.14)  16 APR 2019 16:25
 entering extended mode
 **./Bhaskar_resume.tex
 (Bhaskar_resume.tex
@@ -200,61 +200,51 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Overfull \hbox (11.6656pt too wide) in paragraph at lines 6--13
+Overfull \hbox (11.6656pt too wide) in paragraph at lines 6--14
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--13
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
 
  []
 
 <bhaskar.jpg, id=1, 94.6737pt x 116.71605pt>
 File: bhaskar.jpg Graphic file (type jpg)
 <use bhaskar.jpg>
-Package pdftex.def Info: bhaskar.jpg  used on input line 15.
+Package pdftex.def Info: bhaskar.jpg  used on input line 16.
 (pdftex.def)             Requested size: 47.33673pt x 58.35786pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
+(Font)              <5> on input line 22.
 
-Overfull \hbox (45.63574pt too wide) in paragraph at lines 21--31
+Overfull \hbox (45.63574pt too wide) in paragraph at lines 22--32
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--47
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--47
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
@@ -262,47 +252,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--47
 
 {C:/Users/bhask/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./bhaskar.j
 pg>]
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
 ("C:\Users\bhask\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
 
 [2] [3] (Bhaskar_resume.aux) ) 
 Here is how much of TeX's memory you used:
  1953 strings out of 492945
  29447 string characters out of 3126252
- 101352 words of memory out of 3000000
+ 100352 words of memory out of 3000000
  5849 multiletter control sequences out of 15000+200000
  5984 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -316,7 +321,7 @@ pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmr17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Bhaskar_resume.pdf (3 pages, 121062 bytes).
+Output written on Bhaskar_resume.pdf (3 pages, 122437 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
