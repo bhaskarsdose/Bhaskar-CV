@@ -1,1 +1,2 @@
-Resume built using Latex & Time.
+Updated resume.
+Written in custom Latex format.
